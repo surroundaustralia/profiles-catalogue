@@ -1,0 +1,4 @@
+flask>=1.1.1
+SPARQLWrapper>=1.8.5
+pyshacl>=0.11.5
+pyldapi>=3.7
